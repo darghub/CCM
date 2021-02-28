@@ -1,0 +1,27 @@
+.carousel-item {
+  height: 300px;
+  margin-top: 7px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.news .carousel-item {
+  height: 30px;
+  margin-top: 7px;
+}
+
+.news .carousel-item img {
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 50px;
+}
+.new {
+	padding-right: 5px;
+	padding-left: 5px;
+}
